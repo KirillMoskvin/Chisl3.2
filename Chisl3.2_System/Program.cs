@@ -16,7 +16,7 @@ namespace Chisl3._2_System
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form_main());
+            Application.Run(new Form_main());///
         }
     }
 }
